@@ -168,6 +168,6 @@ def main_menu():
 
 # Main program execution
 if __name__ == "__main__":
-    speak("Yo Boss! Batman reporting for duty... with zero overtime and unlimited sarcasm!")
-    print("Hello Boss, this is Batman!")
+    speak("Hello Fauzan! Batman reporting for duty!")
+    print("Hello Fauzan, this is Batman!")
     main_menu()
